@@ -1,8 +1,6 @@
 import pygame
 
 def main():
-    position = pygame.Vector2(2, 4)
-    print(position)
-    return
+    print(type(pygame.Vector2()))
 
 main()
